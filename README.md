@@ -1,5 +1,8 @@
 # 🍳 ChefMate — Smart Recipe & Step-by-Step Cooking Assistant
 
+[![CI](https://github.com/shauryamalhotra957-wq/chefmate-recipe-app/actions/workflows/ci.yml/badge.svg)](https://github.com/shauryamalhotra957-wq/chefmate-recipe-app/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 > **Cook effortlessly with what you have in your kitchen.**  
 > Smart pantry matching, adaptive dietary filters, scalable portions, and a distraction-free kitchen cooking mode equipped with interactive countdown timers, hands-free voice read-aloud, and celebration fanfare!
 
