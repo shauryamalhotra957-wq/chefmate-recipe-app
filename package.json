@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "0.21.1",
     "canvas-confetti": "^1.9.4",
-    "glob-parent": "5.1.1",
+    "glob-parent": "6.0.2",
     "json5": "1.0.1",
     "lodash": "4.17.15",
     "lucide-react": "^1.16.0",
