@@ -12,7 +12,7 @@
     "axios": "0.21.1",
     "canvas-confetti": "^1.9.4",
     "glob-parent": "5.1.1",
-    "json5": "1.0.1",
+    "json5": "2.2.3",
     "lodash": "4.17.15",
     "lucide-react": "^1.16.0",
     "minimist": "1.2.0",
